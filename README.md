@@ -19,4 +19,4 @@ The emulation of the target trial and the VALIDATE trial both estimated no diffe
 
 Conclusion
 
-Our findings show that using real world data to emulate a target trial can deliver accurate long term effect estimates in certain situations. However, even with high-dimensional data, it is not always possible to estimate the effect of interventions on outcomes that cannot be well defined, or short-term effects. If registers included detailed information on reasons for making treatment decisions, researchers may be better positioned to identify important potential confounders. 
+Our findings show that using real world data to emulate a target trial can deliver accurate long term effect estimates in certain situations. However, even with high-dimensional data, it is not always possible to estimate the short term effect of interventions, or the effect on outcomes that cannot be well defined. If registers included detailed information on reasons for making treatment decisions, researchers may be better positioned to identify important potential confounders. 
