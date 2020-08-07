@@ -1,4 +1,4 @@
-# VALIDATE
+# Comparing effect estimates in randomized trials and observational studies in the same population
 
 ABSTRACT
 
